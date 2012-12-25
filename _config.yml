@@ -1,3 +1,7 @@
+safe: false
+source: ./
+destination: ./
+lsi: false
 markdown: maruku
 pygments: true
 
