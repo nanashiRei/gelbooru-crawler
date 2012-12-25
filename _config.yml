@@ -1,6 +1,4 @@
-safe: false
-source: ./
-destination: ./
+safe: true
 lsi: false
 markdown: maruku
 pygments: true
